@@ -1,0 +1,6 @@
+files
+tigger.debhelper.log
+tigger.postinst.debhelper
+tigger.prerm.debhelper
+tigger.substvars
+tigger/
