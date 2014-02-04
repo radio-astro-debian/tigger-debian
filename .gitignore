@@ -1,6 +1,6 @@
 files
-tigger.debhelper.log
-tigger.postinst.debhelper
-tigger.prerm.debhelper
-tigger.substvars
-tigger/
+python-tigger.debhelper.log
+python-tigger.postinst.debhelper
+python-tigger.prerm.debhelper
+python-tigger.substvars
+python-tigger/
