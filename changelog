@@ -1,3 +1,10 @@
+tigger (1.3.1-1precise1) precise; urgency=low
+
+  * new upstream release
+  * added missing libicu48 dependency
+
+ -- Gijs Molenaar <gijs@pythonic.nl>  Tue, 04 Feb 2014 11:20:16 +0200
+
 tigger (1.3.0-1precise1) precise; urgency=low
 
   * Initial release
