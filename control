@@ -12,4 +12,4 @@ Architecture: any
 Depends: ${python:Depends}, ${misc:Depends}, python-kittens, python-pyfits,
  python-astlib, python-scipy, python-numpy, python-qt4, python-qwt5-qt4,
  libicu48
-Description: Data reduction logging tool, Useful for remembering reductions 
+Description: FITS and MeqTrees LSM viewer
