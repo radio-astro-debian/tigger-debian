@@ -5,4 +5,9 @@
 export DH_VERBOSE=1
 
 %:
-	dh $@ --with python2
+	dh $@ --with python2 --buildsystem python_distutils
+
+override_dh_auto_clean:
+	dh_auto_clean
+	rm -rf astro_tigger.egg-info
+
