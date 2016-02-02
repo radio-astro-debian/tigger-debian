@@ -2,7 +2,8 @@ Source: tigger
 Section: python
 Priority: extra
 Maintainer: Gijs Molenaar <gijs@pythonic.nl>
-Build-Depends: debhelper (>= 8.0.0), python-all, python-setuptools
+Build-Depends: debhelper (>= 8.0.0), python-all, python-setuptools,
+ python-kittens, python-qt4, python-qwt5-qt4
 Standards-Version: 3.9.2
 Homepage: https://github.com/ska-sa/tigger
 X-Python-Version: 2.7
